@@ -10,9 +10,22 @@
 		33AAB9752DDF813B00921E1E /* TravelSwag567.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = TravelSwag567.app; sourceTree = BUILT_PRODUCTS_DIR; };
 /* End PBXFileReference section */
 
+/* Begin PBXFileSystemSynchronizedBuildFileExceptionSet section */
+		33E844182DDF838400CB05E0 /* Exceptions for "TravelSwag567" folder in "TravelSwag567" target */ = {
+			isa = PBXFileSystemSynchronizedBuildFileExceptionSet;
+			membershipExceptions = (
+				Info.plist,
+			);
+			target = 33AAB9742DDF813B00921E1E /* TravelSwag567 */;
+		};
+/* End PBXFileSystemSynchronizedBuildFileExceptionSet section */
+
 /* Begin PBXFileSystemSynchronizedRootGroup section */
 		33AAB9772DDF813B00921E1E /* TravelSwag567 */ = {
 			isa = PBXFileSystemSynchronizedRootGroup;
+			exceptions = (
+				33E844182DDF838400CB05E0 /* Exceptions for "TravelSwag567" folder in "TravelSwag567" target */,
+			);
 			path = TravelSwag567;
 			sourceTree = "<group>";
 		};
